@@ -1,5 +1,7 @@
 # TombsOfEvil
-Tombs of Evil is a 2D turn-based dungeon game (demo)
+Tombs of Evil is a 2D turn-based dungeon game (demo).
+
+To download the demo see branch above.
 
 Game description: https://pixelmatrix.itch.io/tombs-of-evil
 
